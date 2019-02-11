@@ -1,0 +1,22 @@
+{
+  "name": "v-website",
+  "version": "1.0.0",
+  "description": "ทดสอบการใช้  vue.js ในการทำ website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PawanachaiSeeruesang/v-website.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PawanachaiSeeruesang/v-website/issues"
+  },
+  "homepage": "https://github.com/PawanachaiSeeruesang/v-website#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
